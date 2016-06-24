@@ -9,3 +9,11 @@ A curated list of awesome frameworks, libraries, software and some other resourc
 ## Network Tools
 
 * [drcom-py](https://github.com/JerryLiao26/drcom-py) - A small but useful drcom terminal program written in Python.
+
+## Intelligent Apps
+
+* [Happy-Camera](https://github.com/stevefermi/happycam) - An intelligent camera which is able to recognize how happy you are.
+
+## Teaching Materials
+
+* [Computer Architecture](https://github.com/stevefermi/ComputerArch) - An Mind Map of Computer Architecture
