@@ -17,3 +17,10 @@ A curated list of awesome frameworks, libraries, software and some other resourc
 ## Teaching Materials
 
 * [Computer Architecture](https://github.com/stevefermi/ComputerArch) - An Mind Map of Computer Architecture
+ 
+## Blogs, Newsfeed and Organizations
+
+* [Tech Builds](http://blog.askfermi.me/) - Xiaozhe Yao's Blog
+* [Aiden的博客](http://blog.csdn.net/new_aiden) - Aiden's Blog
+* [Tech Builds News](http://blog.askfermi.me/newsfeed.html) - Tech Builds News Feed
+* [INOG Official Site](https://szuinog.github.io/) - Official Site of SZU INOG
